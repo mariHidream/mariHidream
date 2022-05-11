@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=hedaer&text=Hi!%20I'm%20Mari.&height=200&color=20:d1cdf3,80:e8c3e5&fontSize=25)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariHidream&theme=moltack&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariHidream&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariHidream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<div align="center">
 # Smartphone Brands
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
@@ -39,6 +41,8 @@
 # Search Engines
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+
+</div>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=20:d1cdf3,80:e8c3e5&fontSize=30)
