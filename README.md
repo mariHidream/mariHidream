@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=hedaer&text=Hi!%20I'm%20Mari.&height=200&color=20:d1cdf3,80:e8c3e5&fontSize=25)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariHidream&theme=moltack&show_icons=true)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ohhamma&theme=dark&username=mariHidream)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariHidream&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
 
 # Smartphone Brands
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
