@@ -2,12 +2,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&section=hedaer&text=Hi!%20I'm%20Mari&width=60&height=200&color=20:d1cdf3,80:e8c3e5&fontSize=25)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariHidream&theme=moltack&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariHidream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - - -
   
 </div>
+
+
+안녕!✨ 웹 퍼블리셔 마리야! 지금은 프론트엔드 개발자를 목표로 공부하고 있어! 잘 부탁해🖐
+  
+Hi! ✨ It's Mari, web publisher! 
+Now I'm studying with the goal of becoming a front-end developer!
+Nice to meet you 🖐
+
+- - -
 
 <h2 align="center"> Things I can do </h2>
 
