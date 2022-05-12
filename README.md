@@ -11,7 +11,7 @@
 
 안녕!✨ 웹 퍼블리셔 마리야! 지금은 프론트엔드 개발자를 목표로 공부하고 있어! 잘 부탁해🖐
   
-Hi! ✨ It's Mari, web publisher! 
+Hello! ✨ It's Mari, web publisher! 
 Now I'm studying with the goal of becoming a front-end developer!
 Nice to meet you 🖐
 
