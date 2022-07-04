@@ -47,6 +47,7 @@ Nice to meet you 🖐
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ###### Other
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![velog](https://img.shields.io/badge/Velog-FFFFFF.svg?style=for-the-badge&logo=velog&logoColor=white")
 
 
 
